@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\enemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\enemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|d:\\fptu\\fa25\\pru213\\.project\\projectpru\\assets\\endlessscripts\\explosionel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\explosionel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\explosionenemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\explosionenemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\basicenemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\basicenemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\energyenemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\energyenemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\bulletel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\bulletel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\gameui_el.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\gameui_el.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\playerel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\playerel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\gamemanagerel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\gamemanagerel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\playercollisionel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\playercollisionel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\assets\\endlessscripts\\healenemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA427D97-C52D-241C-62A3-DCB2076E9DE1}|Assembly-CSharp.csproj|solutionrelative:assets\\endlessscripts\\healenemyel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExplosionEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\ExplosionEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\ExplosionEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\ExplosionEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\ExplosionEL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T09:00:26.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BulletEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\BulletEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\BulletEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\BulletEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\BulletEL.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:44:08.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameUI_EL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\GameUI_EL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\GameUI_EL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\GameUI_EL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\GameUI_EL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:12:41.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GameUI.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\Scripts\\GameUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameUI.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\Scripts\\GameUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameUI.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:11:44.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bullet.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:44:31.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HealEnemyEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\HealEnemyEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\HealEnemyEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\HealEnemyEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\HealEnemyEL.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:47:37.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnergyEnemyEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\EnergyEnemyEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\EnergyEnemyEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\EnergyEnemyEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\EnergyEnemyEL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:44:02.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\EnemyEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\EnemyEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\EnemyEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\EnemyEL.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:26:22.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExplosionEnemyEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\ExplosionEnemyEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\ExplosionEnemyEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\ExplosionEnemyEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\ExplosionEnemyEL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:55:05.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BasicEnemyEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\BasicEnemyEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\BasicEnemyEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\BasicEnemyEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\BasicEnemyEL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:29:35.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\PlayerEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\PlayerEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\PlayerEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\PlayerEL.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:31:29.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerCollisionEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\PlayerCollisionEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\PlayerCollisionEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\PlayerCollisionEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\PlayerCollisionEL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T07:50:23.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Gun.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\Scripts\\Gun.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Gun.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\Scripts\\Gun.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Gun.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:01:18.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManagerEL.cs",
+              "DocumentMoniker": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\GameManagerEL.cs",
+              "RelativeDocumentMoniker": "Assets\\EndlessScripts\\GameManagerEL.cs",
+              "ToolTip": "D:\\FPTU\\FA25\\PRU213\\.Project\\ProjectPRU\\Assets\\EndlessScripts\\GameManagerEL.cs",
+              "RelativeToolTip": "Assets\\EndlessScripts\\GameManagerEL.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAywCoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T08:03:39.255Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
