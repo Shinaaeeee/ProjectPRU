@@ -2,9 +2,12 @@
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro;
 public class GameManager : MonoBehaviour
 {
     private int currentEnergy;
+    [SerializeField] private HighScoreManager highScoreManager;
+
     [SerializeField] private int energyMuctieu = 5;
     [SerializeField] private GameObject boss;
     private bool bossCall=false;
@@ -20,6 +23,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private CinemachineCamera cam;
     [SerializeField] private GameObject Red;
 
+
     void Start()
     {
         currentEnergy = 0;
@@ -31,6 +35,12 @@ public class GameManager : MonoBehaviour
             
         cam.Lens.OrthographicSize = 5;
         Red.SetActive(false);
+
+        if (isSurvivalMode)
+        {
+            score = 0;
+            UpdateScore();
+        }
     }
 
     public void AddEnergy()
@@ -71,6 +81,11 @@ public class GameManager : MonoBehaviour
     }
     public void GameOverMenu()
     {
+        if (isSurvivalMode)
+        {
+        highScoreManager.AddNewScore(score);
+        FindAnyObjectByType<HighScoreDisplay>()?.UpdateUI();
+        }
         gameOverMenu.SetActive(true);
         mainMenu.SetActive(false);
         pauseMenu.SetActive(false);
@@ -110,5 +125,33 @@ public class GameManager : MonoBehaviour
         gameOverMenu.SetActive(false);
         Time.timeScale = 0f;
     }
+
+
+    //public void RestartGame() //Lam
+    //{
+    //    Time.timeScale = 1f; 
+    //    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    //}
+
+
+
+    private int score = 0;
+    [SerializeField] private TextMeshProUGUI scoreText;
+    public void AddScore(int points)
+    {
+        score += points;
+        UpdateScore();
+    }
+    private void UpdateScore()
+    {
+        scoreText.text =score.ToString();
+    }
+
+    public int GetScore()
+    {
+        return score;
+    }
+
+    public bool isSurvivalMode = false;
 
 }

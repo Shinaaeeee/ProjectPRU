@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 public abstract class Enemy : MonoBehaviour
 {
@@ -11,11 +11,15 @@ public abstract class Enemy : MonoBehaviour
     [SerializeField] protected float enterDamage = 10f;
     [SerializeField] protected float stayDamage = 1f;
 
+    [SerializeField] private int scoreReward = 10; // điểm thưởng
+    private GameManager gameManager;
     protected virtual void Start()
     {
         player = FindAnyObjectByType<player>();
         currentHp= maxHp;
         UpdateHpBar();
+
+        gameManager = FindAnyObjectByType<GameManager>();
     }
     protected virtual void Update()
     {
@@ -47,6 +51,11 @@ public abstract class Enemy : MonoBehaviour
     }
     public virtual void Die()
     {
+        // ✅ Chỉ cộng điểm khi đang ở chế độ Sinh Tồn
+        if (gameManager != null && gameManager.isSurvivalMode)
+        {
+            gameManager.AddScore(scoreReward);
+        }
         Destroy(gameObject);
     }
     protected void UpdateHpBar()

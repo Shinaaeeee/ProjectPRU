@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 
@@ -24,6 +24,16 @@ public class BossEnemy : Enemy
     }
     public override void Die()
     {
+        GameManager gameManager = FindAnyObjectByType<GameManager>();
+
+        // ✅ Chỉ cộng điểm khi đang ở chế độ sinh tồn
+        if (gameManager != null && gameManager.isSurvivalMode)
+        {
+            gameManager.AddScore(10); // <-- điểm Boss, tùy bạn đổi
+        }
+
+
+
         if (SceneManager.GetActiveScene().name == "Map1")
         {
             Instantiate(UsbPrefabs, transform.position, Quaternion.identity);

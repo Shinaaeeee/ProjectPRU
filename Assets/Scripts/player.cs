@@ -11,6 +11,8 @@
         [SerializeField] private float maxHp = 100f;
         private float currentHp;
         [SerializeField] private Image HpBar;
+
+
         [SerializeField] private GameManager gamemanager;
 
         private void Awake()
