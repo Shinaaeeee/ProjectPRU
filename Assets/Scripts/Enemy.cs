@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 public abstract class Enemy : MonoBehaviour
 {
@@ -10,6 +10,7 @@ public abstract class Enemy : MonoBehaviour
 
     [SerializeField] protected float enterDamage = 10f;
     [SerializeField] protected float stayDamage = 1f;
+
 
     protected virtual void Start()
     {
@@ -47,6 +48,7 @@ public abstract class Enemy : MonoBehaviour
     }
     public virtual void Die()
     {
+
         Destroy(gameObject);
     }
     protected void UpdateHpBar()

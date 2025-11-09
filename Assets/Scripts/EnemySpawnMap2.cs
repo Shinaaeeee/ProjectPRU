@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 public class EnemySpawnerMap2 : MonoBehaviour
 {
@@ -7,6 +7,7 @@ public class EnemySpawnerMap2 : MonoBehaviour
     [SerializeField] private float timeBetweenSpawns = 2f;
     void Start()
     {
+        
         StartCoroutine(SpawnEnemyCoroutine());
     }
     private IEnumerator SpawnEnemyCoroutine()
